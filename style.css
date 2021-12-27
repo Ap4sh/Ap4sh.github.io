@@ -1,0 +1,109 @@
+html,body {
+    background: rgb(30,30,30);
+    background: linear-gradient(120deg, rgba(30,30,30,1) 0%, rgba(20,20,20,1) 100%);
+}
+
+.seller {
+    font-family: monospace;
+    color: #444;
+
+    cursor: text;
+}
+
+.holder {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.center {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.textiboi {
+	text-align: center;
+	color: #444;
+	font-family: monospace;
+}
+
+.textiboi:hover {
+	color: white;
+}
+	
+
+.header {
+    text-align: center;
+    color: #444;
+    font-family: monospace;
+}
+
+.header a {
+    text-decoration: none;
+}
+
+.hoverr:hover a 
+{
+	color: white;
+}
+
+.header:hover {
+    text-align: center;
+    color: white;
+    font-family: monospace;
+}
+
+.container:hover .seller {
+    color: white;
+}
+
+.container:hover a {
+    color: white;
+}
+
+.a {
+    text-align: center;
+    color: white;
+    font-family: monospace;
+}
+
+.header:hover a {
+    text-align: center;
+    color: white;
+    font-family: monospace;
+}
+
+.icon {
+    color: #444;
+}
+
+.icon i {
+    font-size: 80px;
+}
+
+.container {
+    text-align: center;
+    margin: 5px 20px;
+
+    float: left;
+}
+
+a {
+    color: #444;
+}
+
+.container:hover .icon {
+    color: var(--icon-color);
+    font-size: 20px;
+}
+
+.container:hover .seller {
+    color: white;
+}
+
+.container:hover a {
+    color: white;
+}

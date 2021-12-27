@@ -1,7 +1,7 @@
 ---
 layout: single
 title: About
-permalink: /about
+permalink: /blog/about
 ---
 
 #### I am a cybersecurity enthusiast from France.

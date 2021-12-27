@@ -100,7 +100,7 @@
                     `<div class="textiboi">
                 <a id="typElement"></a></div>
                 <div class="textiboi">
-				<a class="textiboi animated fadeIn"  href="/blog">Home</a>
+				<a class="textiboi animated fadeIn"  href="/blog/home.html">Home</a>
                 <a class="textiboi animated fadeIn"  href="/blog/about">About</a>`;
                 console.log("running typewrite");
                 indefiniteWrite();

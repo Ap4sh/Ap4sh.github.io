@@ -58,9 +58,6 @@ author:
     - label: "Tryhackme"
       icon: "fas fa-cloud"
       url: "https://tryhackme.com/p/Ap4sh"
-    - label: "Instagram"
-      icon: "fab fa-instagram"
-      url: "https://instagram.com/sorrypwn"
 
 timezone: "Europe/Paris"
 
